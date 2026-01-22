@@ -19,5 +19,6 @@ app.use(cors({
 app.get("/",(req, res) =>{
     res.send("welcome to basecampy")
 })
+console.log("hie");
 
 export default app
