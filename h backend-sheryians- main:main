@@ -1,0 +1,11 @@
+*   [33m32f8fbc[m[33m ([m[1;31mbackend-sheryians-/main[m[33m, [m[1;31mbackend-sheryians-/HEAD[m[33m)[m keeping all at one place Merge branch 'master'
+[31m|[m[32m\[m  
+[31m|[m * [33m08f3631[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31mbackend-sheryians-/master[m[33m)[m hft
+[31m|[m * [33mec9b7c4[m sfd
+[31m|[m * [33m6601d6f[m Delete day-3/node_modules directory
+[31m|[m * [33m5debe0e[m Delete day-1/node_modules directory
+[31m|[m * [33m9d074f7[m Delete day-2/node_modules directory
+[31m|[m * [33m5e28792[m[33m ([m[1;32mmaster[m[33m)[m .
+[31m|[m * [33m90d3da0[m fix(node_module) : added .gitignore
+[31m|[m * [33md0cc101[m MongoDB Note Taking
+[31m|[m * [33m8cb1dd1[m build basic server(No DB)
